@@ -71,6 +71,7 @@ return [
 
     'links' => [
         public_path('storage') => storage_path('app/public'),
+        public_path('izolda-rally.ru') => storage_path('public'),
     ],
 
 ];
